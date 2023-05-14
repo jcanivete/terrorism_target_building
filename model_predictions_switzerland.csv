@@ -1,0 +1,51 @@
+,name,city,knn,rf
+0,Roche Tower,Basel,0.39766779571957106,0.12333333333333332
+1,Prime Tower,Zurich,0.16252053210587245,0.13
+2,UBS Headquarters,Zurich,0.4660456659720767,0.39
+3,Nestle Headquarters,Vevey,0.394147905703543,0.1433333333333333
+4,Credit Suisse Headquarters,Zurich,0.46848700570247087,0.38
+5,Swiss Re Tower,Zurich,0.19136370391047391,0.10333333333333332
+6,Novartis Campus,Basel,0.38947770098879886,0.38
+7,Zurich Airport,Zurich,0.6826959560480718,0.84
+8,St. Jakob-Park,Basel,0.2222378632906759,0.42
+9,Lucerne Culture and Congress Centre,Lucerne,0.0,0.07
+10,Swiss National Museum,Zurich,0.0,0.12
+11,Kunsthaus Zurich,Zurich,0.18352898935071285,0.16
+12,ETH Zurich,Zurich,0.2764247362215787,0.61
+13,University of Zurich,Zurich,0.44309238137063806,0.74
+14,Lausanne Palace,Lausanne,0.0,0.04
+15,Geneva Airport,Geneva,0.4300756546793345,0.76
+16,Lausanne Cathedral,Lausanne,0.0,0.0
+17,Zurich Opera House,Zurich,0.19015101428824108,0.18
+18,Bern Minster,Bern,0.0,0.01
+19,Basel Minster,Basel,0.0,0.0
+20,Zurich Zoo,Zurich,0.4171824054378241,0.35085714285714287
+21,Chillon Castle,Montreux,0.0,0.05
+22,Grossmunster,Zurich,0.0,0.0
+23,Fraumunster,Zurich,0.0,0.0
+24,St. Peter's Church,Zurich,0.0,0.0
+25,Zurich Town Hall,Zurich,0.15250629942725408,0.04
+26,Basel Town Hall,Basel,0.0,0.0
+27,Lucerne Town Hall,Lucerne,0.18564799042929184,0.0
+28,Geneva Town Hall,Geneva,0.0,0.03
+29,Zurich Central Station,Zurich,0.7956705700913643,0.73
+30,Geneva Central Station,Geneva,0.49791147121642665,0.82
+31,Lausanne Central Station,Lausanne,0.4910096020598318,0.81
+32,Bern Central Station,Bern,0.43457010144288205,0.67
+33,Basel Central Station,Basel,0.4502920542312013,0.66
+34,Lucerne Central Station,Lucerne,0.6704033400306177,0.85
+35,Zurich University Hospital,Zurich,0.6159624308813041,0.57
+36,University Hospital Basel,Basel,0.6110763667036289,0.56
+37,University Hospital Geneva,Geneva,0.4221038086838557,0.6
+38,University Hospital Lausanne,Lausanne,0.4214492816409432,0.53
+39,University Hospital Bern,Bern,0.6054543962093066,0.6
+40,Zurich University of Applied Sciences,Zurich,0.6027631211220464,0.44
+41,University of Basel,Basel,0.28599554331527377,0.57
+42,University of Geneva,Geneva,0.2884283902873124,0.57
+43,University of Lausanne,Lausanne,0.44608459152234053,0.7
+44,University of Bern,Bern,0.47052314759205577,0.77
+45,Zurich University of the Arts,Zurich,0.40582549211968766,0.72
+46,University of St. Gallen,St. Gallen,0.19956406650271458,0.47
+47,University of Fribourg,Fribourg,0.35473829726948625,0.64
+48,University of Neuchatel,Neuchatel,0.21824084468046606,0.62
+49,University of Lugano,Lugano,0.40595203254083406,0.53

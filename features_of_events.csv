@@ -1,0 +1,235 @@
+index,building,city,year,Accessibility,Security,Religion,Politics,Crowds,Culture,Cost,History,Media,Tourism,Education,Health,Sports,Transportation,Infrastructure,Military,Government,Business,Population,attack
+0,Berkeley police station,Berkeley,1970,15,10,1,10,5,5,15,5,5,1,1,1,1,10,10,10,15,5,20,1
+0,Sather Tower,Berkeley,1970,15,10,5,5,10,15,15,15,5,15,15,5,5,10,10,5,15,5,20,0
+0,Berkeley Art Museum and Pacific Film Archive,Berkeley,1970,15,10,5,5,10,15,10,10,5,15,15,5,5,10,10,5,10,5,20,0
+1,Electric Circus Discotheque,New York City,1970,15,5,1,1,20,20,10,10,15,15,1,1,1,15,10,1,1,15,20,1
+1,Empire State Building,New York City,1970,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,20,20,20,0
+1,One World Trade Center,New York City,1970,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,20,1,20,0
+2,Dow Chemical Company,Freeport,1970,15,10,1,5,5,5,20,5,5,1,1,1,1,10,20,1,10,20,15,1
+2,Freeport City Hall,Freeport,1970,15,10,5,10,5,5,15,5,5,5,5,5,5,5,5,5,15,5,20,0
+2,Freeport Public Library,Freeport,1970,15,5,2,2,10,12,10,8,2,8,18,5,2,5,5,2,15,2,18,0
+3,Student Union, University of Kansas,1970,10,5,2,3,15,10,8,10,5,8,20,2,5,5,5,1,5,5,15,1
+3,Lawrence Public Library,Lawrence,1970,10,5,2,2,5,15,12,18,2,10,18,2,2,5,10,2,18,5,18,0
+3,Watkins Museum of History,Lawrence,1970,15,5,2,2,5,18,10,18,2,15,5,2,2,5,5,2,5,2,18,0
+4,Ingalls Skating Rink, Yale University,1970,15,10,5,5,10,15,10,10,5,10,20,5,15,10,10,5,15,5,20,1
+4,New Haven City Hall,New Haven,1970,15,10,1,15,5,5,10,5,5,5,10,10,5,10,10,5,20,10,20,0
+4,Knights of Columbus Building,New Haven,1970,18,15,10,5,8,7,12,6,3,5,8,5,3,5,8,3,10,8,20,0
+5,Dale Theatre, Bronx,1970,15,10,5,5,10,10,10,5,5,5,5,5,5,10,10,5,10,5,20,1
+5,Empire State Building,New York City,1970,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,10,20,20,0
+5,One World Trade Center,New York City,1970,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,20,1,20,0
+6,Sears, Roebuck & Company Department Store,1970,15,10,1,1,15,5,10,5,5,5,1,1,1,15,15,1,5,15,20,1
+6,Empire State Building,New York City,1970,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,10,20,20,0
+6,One World Trade Center,New York City,1970,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,1,1,20,0
+7,Humanities Building Long Island University,New York City,1970,15,10,5,5,10,10,15,5,5,5,20,5,5,10,10,5,10,5,20,1
+7,Empire State Building,New York City,1970,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,10,20,20,0
+7,One World Trade Center,New York City,1970,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,20,1,20,0
+8,Des Moines Police Station,Des Moines,1970,15,10,1,5,5,1,10,1,1,1,1,5,1,10,10,1,15,5,20,1
+8,Iowa State Capitol,Des Moines,1970,15,10,5,20,10,15,15,15,5,10,10,5,5,5,15,5,20,5,15,0
+8,Wells Fargo Arena,Des Moines,1970,15,10,5,5,15,5,10,5,5,10,15,5,20,5,5,5,5,10,15,0
+9,Ames Police Headquarters,Ames,1970,15,10,1,5,5,1,10,1,1,1,1,5,1,5,5,5,15,5,20,1
+9,Iowa State University Memorial Union,Ames,1970,15,10,5,5,10,15,10,10,5,10,20,5,10,5,10,5,10,5,15,0
+9,Ames Public Library,Ames,1970,15,5,1,1,10,15,10,5,1,10,20,1,1,10,10,1,15,5,15,0
+10,Des Moines Chamber of Commerce,Des Moines,1970,15,10,1,5,5,5,10,1,1,3,3,3,3,5,5,1,10,15,15,1
+10,Iowa State Capitol,Des Moines,1970,15,10,5,20,10,15,15,15,5,10,10,5,5,5,15,5,20,10,20,0
+10,801 Grand,Des Moines,1970,15,5,1,5,10,5,15,1,5,5,5,5,5,10,10,1,10,15,15,0
+11,DeWitt Police Station, Iowa,1970,15,10,1,5,5,1,10,1,1,1,1,5,1,5,5,5,15,5,10,1
+11,DeWitt Operahouse Theatre,DeWitt,1970,10,5,2,2,5,15,10,15,2,10,5,2,2,5,5,2,5,5,10,0
+11,LincolnWay Community Bank,DeWitt,1970,15,5,1,1,5,1,10,1,1,1,1,1,1,1,1,1,1,10,5,0
+12,El Comandante Shopping Center,San Juan,1971,15,5,1,5,15,5,10,5,5,10,1,1,5,15,15,1,5,15,20,1
+12,Castillo San Felipe del Morro,San Juan,1971,10,5,15,5,10,20,15,20,5,20,5,5,5,5,15,20,20,5,20,0
+12,Catedral de San Juan Bautista,San Juan,1971,10,5,20,5,10,20,15,20,5,20,5,5,5,5,5,5,5,5,20,0
+13,Oklahoma University campus,Norman,1971,10,5,5,5,10,10,10,10,5,5,20,5,10,5,5,5,10,5,15,1
+13,Norman Public Library,Norman,1971,15,5,2,2,10,5,10,2,2,5,15,5,2,5,5,2,15,5,15,0
+13,Norman City Hall,Norman,1971,15,5,1,10,5,5,10,1,1,3,5,3,3,5,5,1,15,5,15,0
+14, F. W. Woolworth Store Manhattan,New York City,1972,20,10,1,1,15,15,5,15,5,20,1,1,1,20,20,1,10,20,20,1
+14,Empire State Building,New York City,1972,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,10,20,20,0
+14,One World Trade Center,New York City,1972,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,20,1,20,0
+15,S.H. Kress & Company Manhattan,New York City,1972,18,15,1,5,12,10,8,15,5,15,1,1,1,18,18,1,10,15,20,1
+15,Empire State Building,New York City,1972,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,10,20,20,0
+15,One World Trade Center,New York City,1972,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,20,1,20,0
+16,Lerner Shop Manhattan,New York City,1972,18,10,1,1,16,5,10,1,1,10,1,1,1,18,18,1,1,18,20,1
+16,Empire State Building,New York City,1972,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,10,20,20,0
+16,One World Trade Center,New York City,1972,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,1,1,20,0
+17,E. J. Korvette branch Manhattan,New York City,1972,18,10,1,1,16,5,10,1,5,5,1,1,1,18,18,1,5,16,20,1
+17,Empire State Building,New York City,1972,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,10,20,20,0
+17,One World Trade Center,New York City,1972,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,20,1,20,0
+18,E. J. Korvette branch Manhattan,New York City,1972,18,10,1,1,16,1,10,1,1,10,1,1,1,18,18,1,1,16,20,1
+18,Empire State Building,New York City,1972,20,10,1,5,15,20,20,20,20,20,1,1,10,20,20,1,10,20,20,0
+18,One World Trade Center,New York City,1972,20,1,1,1,1,1,1,1,1,1,1,1,1,20,20,1,20,1,20,0
+19,Los Angeles International Airport,Los Angeles,1974,15,10,1,5,18,5,17,3,10,20,1,1,5,20,20,1,5,15,20,1
+19,Walt Disney Concert Hall,Los Angeles,1974,10,5,1,1,5,15,18,1,5,20,1,1,1,10,10,1,1,5,18,0
+19,The Getty Center,Los Angeles,1974,10,5,1,1,5,15,18,5,5,20,1,1,1,5,5,1,1,10,20,0
+20,International Telephone and Telegraph Corporation,San Juan,1974,15,10,1,5,5,3,18,2,3,2,1,1,1,10,10,1,10,18,20,1
+20,El Morro,San Juan,1974,10,5,15,5,10,20,5,20,5,20,5,5,5,5,5,15,15,5,20,0
+20,La Fortaleza,San Juan,1974,15,10,10,15,10,20,15,20,5,20,5,5,5,5,10,20,20,5,20,0
+21,First National Bank of Chicago,Chicago,1976,18,16,1,10,12,5,17,8,5,5,3,2,2,15,15,2,18,20,20,1
+21,Willis Tower,Chicago,1976,15,10,1,5,15,5,20,10,5,20,1,1,5,15,15,1,5,20,20,0
+21,John Hancock Center,Chicago,1976,15,10,1,5,15,10,18,10,10,20,5,1,5,15,15,1,10,20,20,0
+22,University of Maryland,College Park,1981,15,10,5,5,10,15,15,10,5,5,20,10,10,10,15,5,15,10,15,1
+22,The Hotel at the University of Maryland,College Park,1981,10,5,2,3,5,3,12,1,2,3,18,5,3,8,8,1,3,5,15,0
+22,The Varsity,College Park,1981,15,10,1,5,20,15,5,10,5,20,10,5,15,15,10,1,5,10,20,0
+23,Hotel Rajneesh,Portland,1983,10,5,2,2,5,5,10,2,2,10,2,2,2,5,5,2,2,5,15,1
+23,Pioneer Courthouse,Portland,1983,15,10,5,5,10,15,10,20,5,15,5,5,5,10,10,5,15,10,20,0
+23,US Bancorp Tower,Portland,1983,15,10,1,5,10,5,15,1,5,5,5,5,5,10,10,1,10,15,15,0
+24,Women's Clinic of Mesquite,Mesquite,1985,10,5,1,1,5,1,10,1,1,1,1,20,1,5,1,1,1,1,15,1
+24,Mesquite Arts Center,Mesquite,1985,15,10,2,5,8,15,12,3,2,5,10,2,2,5,5,2,10,5,18,0
+24,Mesquite Tower,Mesquite,1985,15,10,1,1,5,1,10,1,1,1,1,1,1,1,1,1,1,1,15,0
+25,Eastern Women's Center,New York City,1986,10,5,1,1,5,1,10,1,1,1,1,15,1,5,5,1,10,1,20,1
+25,Empire State Building,New York City,1986,20,15,1,10,15,20,20,20,20,20,1,1,10,20,20,1,20,20,20,0
+25,One World Trade Center,New York City,1986,18,5,1,1,1,1,1,1,1,1,1,1,1,18,18,1,1,1,20,0
+26,headquarters office of the National Association for the Advancement of Colored People,Atlanta,1989,15,10,5,20,10,20,10,20,10,5,15,5,5,15,15,5,20,10,20,1
+26,The Westin Peachtree Plaza,Atlanta,1989,18,15,1,5,12,8,16,3,10,17,2,1,6,18,18,1,5,16,20,0
+26,Bank of America Plaza,Atlanta,1989,15,10,1,5,5,5,18,3,5,5,1,1,1,15,15,1,15,18,20,0
+27, Medical Care Center of Woodbridge,Woodbridge,1991,15,10,1,1,5,1,10,1,1,1,1,20,1,5,15,1,1,1,20,1
+27,Woodbridge Community Center,Woodbridge,1991,15,10,1,1,10,5,15,1,1,5,10,15,15,5,5,1,10,5,15,0
+27,Woodbridge High School,Woodbridge,1991,15,10,5,5,10,5,15,1,1,1,20,5,5,1,1,1,5,1,15,0
+28, Royal Mail center in Belfast,Belfast,1998,15,10,1,5,5,1,10,1,5,1,1,1,1,15,15,1,10,10,20,1
+28,Belfast City Hall,Belfast,1998,15,10,5,20,10,15,10,20,5,15,5,5,5,10,10,5,20,10,20,0
+28,Titanic Belfast,Belfast,1998,10,5,1,3,5,15,10,5,5,20,1,1,1,5,5,1,1,5,20,0
+29,Higher Council for the Evaluation of Civil Servants,Athens,1998,15,10,1,18,5,5,12,5,3,2,2,2,1,2,10,1,20,5,20,1
+29,Acropolis of Athens,Athens,1998,15,5,20,5,20,20,20,20,5,20,5,5,5,5,20,5,20,5,20,0
+29,Parthenon,Athens,1998,20,5,20,5,20,20,1,20,5,20,5,1,1,1,20,1,20,5,20,0
+30,Admiral Duncan pub,London,1999,15,10,5,5,15,15,10,10,5,10,5,5,5,15,10,5,10,10,20,1
+30,The Shard,London,1999,10,5,1,1,5,1,15,1,1,15,1,1,1,15,15,1,15,15,20,0
+30,The Gherkin,London,1999,10,5,1,5,5,10,15,1,5,15,1,1,1,10,10,1,10,15,20,0
+31,Red Devil pub,Belfast,1999,10,5,1,5,15,10,5,10,5,10,1,1,1,5,5,1,5,5,20,1
+31,Belfast City Hall,Belfast,1999,15,10,5,15,10,15,10,20,5,15,5,5,5,10,10,5,20,10,20,0
+31,Titanic Belfast,Belfast,1999,10,5,1,3,2,15,12,1,3,18,1,1,1,10,10,1,3,5,20,0
+32,Edmonton TV station,Edmonton,1999,15,10,1,5,10,5,10,5,20,5,1,1,1,10,10,1,10,5,20,1
+32,Alberta Legislature Building,Edmonton,1999,18,16,5,18,12,16,15,18,10,18,14,10,8,10,18,5,18,12,18,0
+32,Muttart Conservatory,Edmonton,1999,15,10,1,1,10,15,10,1,1,15,1,1,1,5,5,1,1,5,15,0
+33,S-Bahn rail station,Dusseldorf,2000,15,10,1,1,15,5,10,5,5,10,1,1,1,20,20,1,10,10,20,1
+33,Rheinturm,Dusseldorf,2000,18,15,1,5,12,10,16,5,8,18,1,1,5,18,18,1,5,10,18,0
+33,St. Lambertus Church,Dusseldorf,2000,15,10,20,5,10,20,20,20,5,20,5,5,5,10,10,5,5,5,20,0
+34,Hong Kong's Immigration Tower,Hong Kong,2000,15,10,1,5,5,1,10,1,1,1,1,1,1,15,15,1,15,10,20,1
+34,Bank of China Tower,Hong Kong,2000,18,16,1,10,12,8,20,5,10,15,1,1,1,18,18,1,18,20,20,0
+34,International Commerce Centre,Hong Kong,2000,10,5,1,5,5,3,18,1,3,10,1,1,3,20,20,1,5,20,20,0
+35, Schiphol airport,Schipol,2001,18,16,1,3,20,5,15,2,8,20,1,1,1,20,20,1,1,18,20,1
+35,Schiphol Trade Park,Schipol,2001,10,5,1,3,2,2,5,1,1,2,1,1,1,20,20,1,1,10,20,0
+35,The Base,Schipol,2001,18,20,1,1,5,1,10,1,1,1,1,1,1,20,20,1,20,1,20,0
+36,Borgo gendarmerie,Borgo,2001,10,15,1,5,5,5,10,5,1,1,1,1,1,1,1,15,15,1,15,1
+36,Basilica di San Pietro,Borgo,2001,18,16,20,14,20,20,20,20,16,20,10,6,4,12,16,4,16,12,20,0
+36,Castel Sant'Angelo,Borgo,2001,18,16,14,12,16,20,20,20,10,20,6,4,4,8,16,20,20,8,20,0
+37,Ealing subway station,Ealing,2001,15,10,1,1,10,5,10,5,1,5,1,5,1,20,20,1,5,1,20,1
+37,Ealing Town Hall,Ealing,2001,15,10,5,10,5,10,15,10,5,5,10,5,5,10,10,5,15,10,20,0
+37,Pitzhanger Manor,Ealing,2001,15,5,5,5,5,15,10,15,5,15,5,5,5,5,5,5,5,5,15,0
+38,Courthouse of Venice,Venice,2001,15,10,5,10,5,20,15,20,5,20,5,5,5,10,10,5,20,5,20,1
+38,Basilica di San Marco,Venice,2001,10,15,20,5,20,20,20,20,10,20,5,5,5,10,20,5,20,10,20,0
+38,Doge's Palace,Venice,2001,10,15,15,10,20,20,20,20,10,20,5,5,5,5,20,5,20,10,20,0
+39,Cala Font Hotel,Salou,2001,15,10,1,1,18,5,10,1,1,20,1,1,5,15,1,1,1,5,20,1
+39,PortAventura World,Salou,2001,15,10,1,1,18,10,17,1,5,20,1,1,15,10,10,1,1,15,20,0
+39,Ferrari Land,Salou,2001,10,5,1,1,5,3,15,1,1,20,1,1,15,5,5,1,1,5,10,0
+40,McDonalds fast food restaurant,Xian,2001,10,5,1,1,15,1,10,1,1,10,1,1,1,10,10,1,1,15,20,1
+40,Terracotta Army Museum,Xian,2001,10,5,2,2,15,20,10,20,5,20,2,2,2,5,5,2,2,5,20,0
+40,Giant Wild Goose Pagoda,Xian,2001,15,10,20,5,10,20,5,20,5,20,5,5,5,10,10,5,5,5,20,0
+41,Muslim butcher shop,Lille,2002,15,5,20,1,5,10,5,1,1,1,1,1,1,15,15,1,1,1,20,1
+41,Lille Cathedral,Lille,2002,15,10,20,5,10,20,20,20,5,20,5,5,5,10,10,5,5,5,20,0
+41,Palais des Beaux-Arts de Lille,Lille,2002,18,16,2,4,12,20,16,18,6,20,18,4,6,14,16,2,16,8,20,0
+42,Cash dispenser,Barcelona,2002,18,12,1,1,15,1,10,1,1,15,1,1,1,18,18,1,1,15,20,1
+42,Sagrada Familia,Barcelona,2002,10,5,20,5,15,20,15,20,5,20,5,5,5,10,10,5,5,5,20,0
+42,Casa Batlló,Barcelona,2002,15,10,5,5,15,20,10,20,5,20,5,5,5,10,10,5,5,10,20,0
+43,University of Navarre in Pamplona,Pamplona,2002,15,10,10,5,5,15,15,5,5,10,20,5,5,10,10,5,10,5,15,1
+43,Palacio de Navarra,Pamplona,2002,15,10,5,10,5,15,15,15,5,15,10,5,5,5,10,5,15,10,15,0
+43,Catedral de Santa María la Real,Pamplona,2002,15,10,20,5,15,20,20,20,5,20,5,5,5,5,5,5,5,5,15,0
+44,Costa Blanca Resort,Alicante,2002,15,10,1,1,10,5,18,1,1,20,1,1,5,10,10,1,1,15,20,1
+44,Castle of Santa Barbara,Alicante,2002,15,10,5,5,10,20,5,20,5,20,5,5,5,5,5,10,10,5,20,0
+44,Basilica of Santa Maria,Alicante,2002,15,10,20,5,10,20,10,15,5,20,5,5,5,5,5,5,5,5,20,0
+45,Central Square,Guilin,2002,10,5,2,3,15,10,8,5,2,18,2,2,2,15,15,2,5,5,18,1
+45,Reed Flute Cave,Guilin,2002,10,5,2,1,8,18,5,20,2,20,1,1,1,5,1,1,1,1,15,0
+45,Folded Brocade Hill,Guilin,2002,10,5,15,5,15,20,5,20,5,20,5,5,5,5,5,5,5,5,20,0
+46,Civil Guards Barracks,Urdax,2002,15,18,1,10,5,3,10,3,1,2,1,1,1,1,1,18,15,1,2,1
+46,Urdax Monastery,Urdax,2002,10,5,20,1,5,20,10,20,1,20,1,1,1,5,5,1,1,1,5,0
+46,Church of San Salvador,Urdax,2002,10,5,20,1,5,15,5,20,1,15,1,1,1,1,1,1,1,1,5,0
+47,Jingbian Hotel ,Yulin,2003,10,5,1,1,5,3,10,1,1,3,1,1,1,3,3,1,3,3,10,1
+47,Yulin Museum,Yulin,2003,10,5,2,3,4,15,8,10,2,6,5,2,2,4,6,2,8,2,15,0
+47,Yulin City Stadium,Yulin,2003,10,5,1,3,15,5,10,1,3,5,1,3,20,5,5,1,3,3,15,0
+48,Antrim Road Police station,Belfast,2003,15,18,1,15,5,5,10,10,5,1,1,1,1,5,5,15,15,5,18,1
+48,Belfast City Hall,Belfast,2003,15,10,5,15,10,15,10,20,5,15,5,5,5,5,10,5,20,10,20,0
+48,Grand Opera House,Belfast,2003,15,10,5,5,10,15,15,15,5,15,5,5,5,10,10,5,10,5,20,0
+49,Tsinghua University,Beijing,2003,10,10,2,8,12,18,15,18,6,10,20,8,10,10,16,2,18,14,20,1
+49,The Forbidden City,Beijing,2003,15,5,20,20,20,20,20,20,10,20,5,5,5,5,20,5,20,5,20,0
+49,The Temple of Heaven,Beijing,2003,10,10,20,5,15,20,20,20,5,20,5,5,5,5,5,5,20,5,20,0
+50,Beijing University,Beijing,2003,15,10,5,10,15,15,10,15,10,15,20,10,10,15,15,5,20,10,20,1
+50,The Great Wall of China,Beijing,2003,20,10,15,15,20,20,20,20,10,20,5,5,5,5,20,20,20,5,20,0
+50,The Temple of Heaven,Beijing,2003,10,10,20,5,15,20,20,20,5,20,5,5,5,5,5,5,20,5,20,0
+51,General Council of Ajaccio,Ajaccio,2003,15,10,5,10,5,10,15,10,5,5,5,5,5,5,5,5,15,5,15,1
+51,Cathédrale Notre-Dame-de-l'Assomption d'Ajaccio,Ajaccio,2003,15,10,20,5,10,20,15,20,5,20,5,5,5,5,5,5,5,5,15,0
+51,Musée Fesch,Ajaccio,2003,15,10,5,5,5,20,10,20,5,20,5,5,5,5,5,5,5,5,15,0
+52,Postal Office,Valencia,2003,15,10,5,5,10,5,10,5,5,5,5,5,5,10,10,5,10,5,20,1
+52,City of Arts and Sciences,Valencia,2003,15,10,1,5,18,20,20,5,10,20,5,5,5,5,20,1,10,5,20,0
+52,Central Market,Valencia,2003,15,10,5,5,18,15,10,10,5,15,5,5,5,15,15,5,10,15,20,0
+53,Hotel Residencia Bahia,Alicante,2003,15,10,1,1,10,5,10,5,1,20,1,1,1,15,15,1,1,10,20,1
+53,Castle of Santa Barbara,Alicante,2003,15,5,10,5,10,20,15,20,5,20,5,5,5,5,10,20,10,5,20,0
+53,Basilica of Santa Maria,Alicante,2003,15,10,20,5,10,20,15,15,5,20,5,5,5,5,5,5,5,5,20,0
+54,Hotel Nadal,Benidorm,2003,15,10,1,1,20,10,10,1,5,20,1,1,5,15,10,1,1,15,20,1
+54,Gran Hotel Bali,Benidorm,2003,15,10,1,1,18,5,12,1,5,20,1,1,10,5,5,1,1,10,20,0
+54,Intempo,Benidorm,2003,5,5,1,1,3,2,18,1,1,15,1,1,1,1,1,1,1,10,18,0
+55,Courthouse of Estella,Estella,2003,15,10,5,5,5,10,15,10,5,5,5,5,5,5,5,5,15,5,10,1
+55,Church of San Pedro de la Rúa,Estella,2003,15,5,20,1,10,20,10,20,1,20,1,1,1,5,1,1,1,1,10,0
+55,Palacio de los Reyes de Navarra,Estella,2003,10,10,15,5,5,15,15,20,5,15,5,5,5,5,10,5,15,5,5,0
+56,Railway station,Zhengzhou,2004,10,5,1,3,15,5,10,10,3,5,3,1,1,20,20,1,10,5,20,1
+56,Zhengzhou Greenland Plaza,Zhengzhou,2004,10,5,1,3,5,3,18,1,1,3,1,1,1,10,10,1,10,10,20,0
+56,Zhengzhou International Convention and Exhibition Center,Zhengzhou,2004,10,5,1,5,8,5,15,3,3,5,3,3,5,8,8,1,8,8,20,0
+57,Atocha Station,Madrid,2004,15,10,1,5,20,10,15,10,5,20,5,5,5,20,20,1,10,10,20,1
+57,Palacio Real de Madrid,Madrid,2004,18,16,10,16,18,20,20,20,12,20,6,4,6,10,16,10,20,12,20,0
+57,Torre Picasso,Madrid,2004,18,16,1,10,12,8,17,4,14,10,2,2,4,18,18,1,16,20,20,0
+58,El Pozo Station,Madrid,2004,15,10,1,1,5,1,10,1,1,1,1,1,1,20,20,1,1,1,20,1
+58,Palacio Real de Madrid,Madrid,2004,18,16,10,16,18,20,20,20,14,20,10,6,8,14,16,12,20,14,20,0
+58,Torre Picasso,Madrid,2004,18,16,1,10,12,8,16,4,14,10,2,2,4,16,16,1,16,18,20,0
+59,Sant Eugenia Station,Madrid,2004,15,10,1,1,5,1,10,1,1,1,1,1,1,20,20,1,1,1,20,1
+59,Royal Palace of Madrid,Madrid,2004,18,16,10,18,16,20,20,20,14,20,12,8,10,12,16,14,20,14,20,0
+59,Almudena Cathedral,Madrid,2004,15,10,20,5,10,20,15,10,5,20,5,5,5,10,10,5,10,5,20,0
+60,Guanlan Movie Theater square,Shenzen,2004,10,5,1,3,8,6,12,2,4,7,1,1,1,6,6,1,3,5,18,1
+60,Ping An Finance Center,Shenzen,2004,10,5,1,3,5,2,18,1,2,3,1,1,2,5,10,1,3,18,20,0
+60,Shenzhen International Airport Terminal 3,Shenzen,2004,10,8,1,2,12,3,15,1,2,15,1,1,2,20,20,1,10,15,20,0
+61,Departmental Facilities Office,Ajaccio,2005,10,5,1,5,3,3,10,1,1,1,3,3,1,3,3,1,10,3,15,1
+61,Cathédrale Notre-Dame-de-l'Assomption d'Ajaccio,Ajaccio,2005,10,10,20,5,10,20,15,20,5,20,5,5,5,5,5,5,5,5,15,0
+61,Musée Fesch,Ajaccio,2005,15,10,5,5,5,20,10,20,5,15,5,5,5,5,5,5,5,5,15,0
+62,Palace of Justice in Bastia,Bastia,2005,15,10,5,15,10,15,15,20,5,10,5,5,5,10,15,5,20,5,15,1
+62,Sainte-Marie Cathedral,Bastia,2005,10,5,20,5,10,15,15,20,5,15,5,5,5,5,5,5,5,5,15,0
+62,Citadelle de Bastia,Bastia,2005,10,5,15,5,5,15,15,20,5,15,5,5,5,5,15,20,20,5,15,0
+63,Palace of Justice in Ajaccio,Ajaccio,2005,10,15,5,10,5,10,15,15,5,5,5,5,5,5,10,5,15,5,15,1
+63,Cathédrale Notre-Dame-de-l'Assomption d'Ajaccio,Ajaccio,2005,10,10,20,5,10,20,15,20,5,20,5,5,5,5,5,5,5,5,15,0
+63,Musée Fesch,Ajaccio,2005,15,10,5,5,5,20,10,20,5,15,5,5,5,5,5,5,5,5,15,0
+64,Glasgow Airport,Abbotsinch,2007,18,16,1,3,12,3,14,2,6,10,1,2,1,20,20,1,3,14,20,1
+64,Abbey Mill Business Centre,Abbotsinch,2007,15,10,1,1,5,1,10,1,1,1,1,1,1,5,5,1,1,15,15,0
+64,Phoenix Retail Park,Abbotsinch,2007,15,10,1,1,10,1,15,1,1,5,1,1,1,10,10,1,1,15,15,0
+65,La Rigoletta restaurant,Palma de Mallorca,2009,15,10,1,1,10,10,10,5,1,15,1,1,1,10,10,1,5,10,20,1
+65,Cathedral of Santa Maria of Palma,Palma de Mallorca,2009,15,10,20,5,15,20,15,20,5,20,5,5,5,5,5,5,5,5,20,0
+65,Bellver Castle,Palma de Mallorca,2009,10,5,5,3,7,15,18,20,3,20,2,2,5,5,10,15,5,3,18,0
+66,office of Swissnuclear.,Olten,2011,18,16,1,10,2,3,15,1,5,2,1,1,1,18,18,1,16,20,18,1
+66,Stadthalle Olten,Olten,2011,18,16,2,4,12,10,14,6,6,8,10,8,8,14,14,2,12,10,18,0
+66,Kulturzentrum Schützi,Olten,2011,16,14,2,4,12,18,10,6,8,10,14,4,6,12,10,2,10,8,18,0
+67,The Mall Athens,Athens,2013,18,16,1,3,15,10,14,1,8,16,1,1,12,18,18,1,3,16,20,1
+67,Acropolis of Athens,Athens,2013,20,10,20,5,20,20,5,20,5,20,5,5,5,5,20,5,20,5,20,0
+67,Parthenon,Athens,2013,20,1,20,1,20,20,1,20,1,20,1,1,1,1,20,1,20,1,20,0
+68,Darul Uloom School,London,2013,15,10,18,5,8,12,10,5,3,3,18,3,3,10,10,3,10,3,18,1
+68,The Shard,London,2013,18,16,1,5,16,10,20,1,10,18,1,1,1,18,18,1,16,20,20,0
+68,St. Paul's Cathedral,London,2013,20,15,20,5,15,20,10,20,10,20,5,5,5,10,15,5,10,10,20,0
+69,Louis Armstrong New Orleans International Airport,New Orleans,2015,15,15,1,5,15,10,10,10,5,20,1,5,5,20,20,1,5,10,20,1
+69,St. Louis Cathedral,New Orleans,2015,15,10,20,5,15,20,10,20,5,20,5,5,5,10,10,5,10,5,20,0
+69,The Mercedes-Benz Superdome,New Orleans,2015,18,16,2,6,20,16,17,10,14,20,4,4,20,18,18,2,6,14,20,0
+70,Taizhou airport,Taizhou,2015,15,10,1,5,5,1,15,1,1,5,1,1,1,20,20,1,5,1,20,1
+70,Taizhou Mansion,Taizhou,2015,15,10,5,5,10,5,15,5,5,5,5,5,5,5,5,5,10,5,20,0
+70,Taizhou Grand Theater,Taizhou,2015,15,10,1,5,10,15,15,1,5,10,5,5,5,10,10,1,5,5,15,0
+71,Stade de France,Saint Denis,2015,15,15,1,10,20,10,18,5,15,15,1,1,20,20,20,1,10,10,20,1
+71,Basilique Saint-Denis,Saint Denis,2015,18,16,20,10,14,20,20,20,8,20,6,4,2,16,18,2,8,4,20,0
+71,Musée d'art et d'histoire de Saint-Denis,Saint Denis,2015,15,10,5,3,5,18,12,20,2,15,5,1,1,10,10,1,5,1,20,0
+72,Comptoir Voltaire restaurant,Paris,2015,18,10,1,1,12,10,10,1,5,15,1,1,1,18,18,1,10,10,20,1
+72,Eiffel Tower,Paris,2015,20,15,1,5,20,20,1,20,15,20,1,1,5,20,20,1,15,15,20,0
+72,Louvre Museum,Paris,2015,20,18,2,5,20,20,20,20,15,20,2,2,2,18,18,2,20,15,20,0
+73,Bataclan concert hall,Paris,2015,18,10,1,3,20,20,10,15,15,18,1,1,1,18,18,1,15,15,20,1
+73,Eiffel Tower,Paris,2015,20,15,1,5,20,20,1,20,15,20,1,1,5,20,20,1,5,15,20,0
+73,Louvre Museum,Paris,2015,20,18,2,5,20,20,20,20,15,20,2,2,2,18,18,2,20,15,20,0
+74, Brussels Airport,Zaventem,2016,18,16,1,5,16,3,17,2,5,15,1,1,1,20,20,1,10,18,20,1
+74,Corporate Village,Zaventem,2016,18,16,1,5,10,3,17,1,5,3,1,1,1,18,18,1,10,20,18,0
+74,Da Vinci Office Park,Zaventem,2016,18,16,1,3,10,2,16,1,2,2,2,2,2,18,18,2,16,18,18,0
+75,Maalbeek Metro Station,Brussels,2016,18,16,1,5,16,5,15,1,3,10,1,1,1,20,20,1,10,5,20,1
+75,Atomium,Brussels,2016,20,15,1,5,15,20,10,15,5,20,1,1,5,15,15,1,10,5,20,0
+75,Palais de Justice,Brussels,2016,15,18,2,18,10,17,16,20,10,15,5,5,2,15,20,2,20,10,20,0
+76,Manchester Arena,Manchester,2017,18,16,2,2,20,10,12,4,14,16,2,2,18,18,16,2,2,14,20,1
+76,Beetham Tower,Manchester,2017,18,16,1,2,12,8,16,1,6,14,1,1,4,16,16,1,1,12,20,0
+76,Manchester Town Hall,Manchester,2017,18,16,2,14,12,18,16,20,10,18,6,4,6,14,16,2,20,12,20,0
+77,Port Authority Bus Terminal,New York City,2017,18,16,1,3,20,2,15,5,3,5,1,1,1,20,20,1,15,15,20,1
+77,Empire State Building,New York City,2017,20,16,1,10,18,20,1,20,20,20,1,1,10,20,20,1,20,20,20,0
+77,One World Trade Center,New York City,2017,20,18,1,16,18,17,20,20,18,20,1,1,1,20,20,1,20,20,20,0
